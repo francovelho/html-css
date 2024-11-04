@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>links</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a{
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        
+        a:visited{
+            color: rgb(247, 0, 255);
+        }
+        a:hover{
+            color: rgb(0, 234, 255);
+            text-decoration: underline;
+        }
+        a:active{
+            color: green;
+        }
+        a::after{
+            content: '⇶';
+            text-decoration: none;
+            font-weight: normal;
+            color: darkgray;
+        }
+    </style>
+</head>
+<body>
+    <h1>personalizando links</h1>
+    <ul>
+        <li><a href="pseuclasse.html" target="_blank">home</a></li>
+        <li><a href="hover.html" target="_blank">pag2 hover de exemplo</a></li>
+        <li><a href="https://jornalzap.com" target="_blank">acessar site</a></li>
+    </ul>
+</body>
+</html>
