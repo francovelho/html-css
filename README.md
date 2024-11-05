@@ -1,4 +1,13 @@
 # html-css
  
 
-### Estou aprendendo a Trabalhar com HTML5 e CSS3. Este exercício estou criando meu primeiro repositório. 
+### Aperendendo a costruir sites na web.
+
+Este repositório é para o gerenciamento de conteúdo de HTML e  CSS.
+
+    Aqui você vai encontrar:
+
+        - Estudos
+        - Desafios 
+        - Projetos 
+        
