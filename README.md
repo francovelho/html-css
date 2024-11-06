@@ -12,4 +12,4 @@ Este repositório é para o gerenciamento de conteúdo de HTML e  CSS.
         - Projetos 
         
 
-## acesse o link: <a href= "https://francovelho.github.io/html-css/">ver Projeto Z.1
+## acesse o link: <a href= "https://francovelho.github.io/html-css/desafios_curso_em_video/desafio_10/android.html">ver Projeto Z.1
